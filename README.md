@@ -2,9 +2,9 @@
 
 # COVID-19 Tableau Visualization 
 
-I have created a dashboard with four visualizations to analyze and understand effects of Covid-19 Globaly.
+This project features an **interactive Tableau dashboard** that examines the **global impact of COVID-19** from **2020 to 2024**, focusing on infection trends, mortality, and vaccination coverage. The dashboard allows users to explore patterns across **countries, continents, and time**, offering clear, data-driven insights into how the pandemic unfolded worldwide.
 
-### [Covid-19 Dashboard](https://public.tableau.com/views/Covid-19Dashboard_17201999956250/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+### [Covid-19 Interactive Dashboard](https://public.tableau.com/views/Covid-19Dashboard_17201999956250/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 The primary goals of my visualizations are:
