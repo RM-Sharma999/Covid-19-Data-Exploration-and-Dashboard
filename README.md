@@ -6,16 +6,14 @@ This project features an **interactive Tableau dashboard** that examines the **g
 
 ### [Covid-19 Interactive Dashboard](https://public.tableau.com/views/Covid-19Dashboard_17201999956250/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-
-The primary goals of my visualizations are:
-
-- Total Cases, Total Deaths and the Death Percentage Worldwide?
-- How each Continent was affected by Covid-19?
-- How each Country has been effected by Covid-19? 
-- How the Top Countries were affected by covid-19 (Top 7)?
-- How many Countries have less than 50% Vaccination By 2024?
-- How many Countries have been Fully Vaccinated By 2024?
-- Vaccinations Administered till May 1, 2024 in India?
+## Objective
+The dashboard is designed to answer key analytical questions, including:
+- What are the global totals for **COVID-19 cases, deaths, and fatality rate**?
+- How did the pandemic affect **different continents and countries**?
+- Which countries were **most severely impacted**?
+- How did **vaccination coverage vary globally**?
+- Which countries remained **below 50% vaccination** by 2024?
+- How did **India’s vaccination campaign** progress over time?
 
 **Visualization 1**: *Covid-19 Global Numbers* \
 A Simple Tabular view representing Total Cases, Total deaths and Death Percentage Globally.
