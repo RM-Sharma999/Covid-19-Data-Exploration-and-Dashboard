@@ -33,56 +33,56 @@ A horizontal bar graph representing the **six continents** affected by covid-19,
 A World Map that displays the **covid-19 infection rate** across various **countries**, the map uses a **color gradient** to represent the infection rate with the legend on the top right corner indicating the range from **0.00 to 77.10 percent**.
 
 **Key Observations:**
-- **High infection rates** are concentrated in **Western Europe.**
-- **Moderate infection rates** are observed in parts of **North America, South America, and Australia.**
-- **Lower infection rates** are common across many **African and Southeast Asian countries.**
+- **High infection rates** are concentrated in **Western Europe**.
+- **Moderate infection rates** are observed in parts of **North America, South America, and Australia**.
+- **Lower infection rates** are common across many **African and Southeast Asian countries**.
 
 This map visually illustrates the **global spread and severity of COVID-19**. **Darker shades** represent regions with **higher infection rates**, while **lighter shades** indicate **lower levels of infection**, reflecting differences in transmission, public health measures, and reporting.
 
 ![](https://i.imgur.com/wtrFqLE.png)
 
-**Visualization 4**: *Top Seven Globally Infected Countries* \
-A line graph representing the top 7 most affected countries by covid-19, the x-axis represents the timeline from 2020 to 2024, while the y-axis shows the infection rate.
+### Top Seven Globally Infected Countries
+A line graph showing the **top seven most affected countries** by COVID-19. The **x-axis** represents the timeline from **2020 to 2024**, while the **y-axis** displays the **infection rate**.
 
-Overall Observation:
-- Steep Increases: France, Germany, and the United Kingdom exhibit rapid early increases, which later stabilize.
-- Gradual Increases: The United States and Russia show more consistent and gradual increases.
-- Low Increases: China maintains a low infection rate with slight growth.
-- Decline: India shows an unusual decline to zero by 2024.
+**Overall Observations:**
+- **Steep increases** are seen in **France, Germany, and the United Kingdom**, followed by stabilization.
+- **Gradual increases** occur in the **United States and Russia**.
+- **Low infection levels** are maintained by **China** with only slight growth.
+- **India** shows a **notable decline** to near zero by 2024.
 
 ![](https://i.imgur.com/UQa3rYg.png)
 
-**Visualization 5**: *Countries With less than 50% Vaccination By 2024?* \
-This World Map provides a global overview of vaccination rates, highlighting countries projected to have less than 50% vaccination coverage by 2024. Using a color scale from green to red, it visually categorizes countries based on their vaccination rates, with green indicating highest coverage near the 50% mark and red denotes those with the lowest. The legend, positioned on the upper right, spans from 0.00% to 49.26%, offering a clear understanding of the color-coded data.
+### Countries With less than 50% Vaccination By 2024?
+This world map shows **countries projected to have less than 50% vaccination coverage by 2024**. A **color gradient from green to red** represents vaccination levels, where green indicates coverage near the 50% threshold and red highlights those with the lowest. The legend ranges from **0.00% to 49.26%**, providing clear interpretation of the scale.
 
-The map emphasizes regions like Africa, Asia, and parts of Eastern Europe, where many countries fall below the 50% threshold, Labels identify key countries such as Afghanistan, the Central African Republic, and Papua New Guinea. The interactive elements, such as the map selector, likely allow users to explore different views, enhancing the map's utility for stakeholders.
+The map highlights large portions of **Africa, Asia, and Eastern Europe** as having low vaccination coverage, with notable countries including **Afghanistan, the Central African Republic, and Papua New Guinea**. Interactive elements allow users to explore different regions and gain deeper insight into global vaccination disparities.
 
 ![](https://i.imgur.com/5d2iXyr.png)
 
-**Visualization 6**: *Covid-19 Full Vaccination Coverage Worldwide By 2024?* \
-This World Map provides a global overview of projected full vaccination rates by 2024. The map uses a color gradient from red to green to depict vaccination coverage, where green represents regions with near-complete or 100% coverage, and red highlights areas with minimal or no coverage.
+### Covid-19 Full Vaccination Coverage Worldwide By 2024?
+This world map displays **projected full vaccination rates by 2024** using a **color gradient from red to green**, where green represents **near-complete (100%) coverage** and red indicates **minimal or no vaccination**.
 
-Countries in North America, Europe, and parts of Asia are predominantly shown in green, indicating high vaccination rates, while parts of Africa and the Middle East are marked in shades of red and orange, reflecting lower coverage levels. The legend in the top right corner explains the color range from 0.0% to 100.0%, the map also includes an interactive element labeled “Map Selector”, suggesting options for switching between different views.
+Countries in **North America, Europe, and parts of Asia** show **high vaccination coverage**, while regions in **Africa and the Middle East** appear in red and orange, reflecting **lower coverage levels**. The legend ranges from **0.0% to 100.0%**, and the interactive **Map Selector** allows users to switch between different views for deeper exploration.
 
 ![](https://i.imgur.com/fZKFaBW.png)
 
-**Visualization 7**: *Vaccinations Administered till May 1, 2024 - India* \
-This line chart tracks the cumulative number of COVID-19 vaccinations administered in India over time, from November 2019 to May 2024. The chart features three distinct lines, each representing a different vaccination measure: the first dose administered (in red), the second dose administered (in blue), and the Total doses administered (in yellow). The x-axis displays the date, while the y-axis depicts the cumulative number of vaccinations in millions.
+### Vaccinations Administered till May 1, 2024 - India
+This line chart shows the **cumulative COVID-19 vaccinations in India** from **November 2019 to May 2024**. It includes three lines representing the **first dose**, **second dose**, and **total doses administered**, with values displayed in **millions** over time.
 
-Key Observations:
-- First Dose Administered: The red line shows a sharp rise starting in early 2021, plateauing around 1.4 billion by mid-2022, indicating a rapid initial rollout of the first doses.
-- Second Dose Administered: The blue line, which starts later in 2021, reaches around 790 million by May 2024, showing a slower but steady increase compared to the first dose.
-- Total Doses Administered: The yellow line, representing the total number of doses administered, it mirrors the trend of the first dose line initially but then stabilizes, reaching over 2.2 billion by May 2024.
+**Key Observations:**
+- The **first dose** shows a rapid increase starting in early 2021, leveling off around **1.4 billion** by mid-2022. 
+- The **second dose** grows more gradually, reaching approximately **790 million** by May 2024.
+- The **total doses administered** exceed **2.2 billion** by May 2024, reflecting the overall scale of India’s vaccination effort.
 
-This visualization effectively communicates the progress and scale of India’s vaccination campaign, highlighting the significant difference between the number of first doses administered and the number of second doses administered by May 2024.
+This visualization highlights the **speed and scale of India’s vaccination rollout**, as well as the gap between first and second dose coverage.
 
 ![](https://i.imgur.com/4rZRE9D.png)
 
-**Conclusion**
+## Conclusion
 
-The COVID-19 pandemic has significantly impacted countries around the globe, with varying infection rates and trends. This project has analyzed and visualized COVID-19 data to better understand the spread and severity of the virus across different regions and the Vaccination efforts of each Country.
+The COVID-19 pandemic has had a significant global impact, with infection rates and trends varying widely across countries. This project analyzes and visualizes COVID-19 data to better understand the **spread and severity of the virus** across different regions, as well as the **vaccination efforts** undertaken by each country.
 
 
-Data Sources:
+## Data Sources:
 
 [Our World In Data](https://ourworldindata.org/coronavirus-data)
