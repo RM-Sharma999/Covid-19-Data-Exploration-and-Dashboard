@@ -32,12 +32,12 @@ A horizontal bar graph representing the **six continents** affected by covid-19,
 ### Infection Rate Per Country
 A World Map that displays the **covid-19 infection rate** across various **countries**, the map uses a **color gradient** to represent the infection rate with the legend on the top right corner indicating the range from **0.00 to 77.10 percent**.
 
-Key Observations:
-- High Infection Rates: Western Europe stands out with some of the highest infection rates.
-- Moderate Infection Rates: Observed in parts of North and South America, as well as Australia.
-- Lower Infection Rates: Predominant in many African and Southeast Asian countries.
+**Key Observations:**
+- **High infection rates** are concentrated in **Western Europe.**
+- **Moderate infection rates** are observed in parts of **North America, South America, and Australia.**
+- **Lower infection rates** are common across many **African and Southeast Asian countries.**
 
-This map provides a visual representation of the spread and severity of COVID-19 across the globe. The darker red areas highlight regions with significant infection rates, potentially indicating higher transmission rates or larger outbreaks. Lighter colors indicate regions with lower infection rates, which could be due to effective control measures, lower transmission rates, or other factors.
+This map visually illustrates the **global spread and severity of COVID-19**. **Darker shades** represent regions with **higher infection rates**, while **lighter shades** indicate **lower levels of infection**, reflecting differences in transmission, public health measures, and reporting.
 
 ![](https://i.imgur.com/wtrFqLE.png)
 
