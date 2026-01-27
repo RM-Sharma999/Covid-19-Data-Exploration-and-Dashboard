@@ -15,6 +15,8 @@ The dashboard is designed to answer key analytical questions, including:
 - Which countries remained **below 50% vaccination** by 2024?
 - How did **India’s vaccination campaign** progress over time?
 
+## Data Analysis AND Visualization
+
 **Visualization 1**: *Covid-19 Global Numbers* \
 A Simple Tabular view representing Total Cases, Total deaths and Death Percentage Globally.
 
