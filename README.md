@@ -16,20 +16,21 @@ The dashboard is designed to answer key analytical questions, including:
 - How did **India’s vaccination campaign** progress over time?
 
 ## Data Analysis AND Visualization
+I utilized **data analysis** techniques to explore the **COVID-19 dataset** and used the insights gained to build **interactive visualizations** in **Tableau**. These visualizations highlight key trends in **infections**, **deaths**, and **vaccination progress** across **countries** and over **time**.
 
-**Visualization 1**: *Covid-19 Global Numbers* \
-A Simple Tabular view representing Total Cases, Total deaths and Death Percentage Globally.
+### Covid-19 Global Numbers
+A Simple Tabular view representing **Total Cases**, **Total deaths**, and **Death Percentage** Globally.
 
 ![](https://i.imgur.com/2E47p8c.png?1)
 
-**Visualization 2**: *Total Deaths per Continent* \
-A horizontal bar graph representing the six continents affected by covid-19, with Europe being the continent with highest number of deaths which counts up to 2,100,105 deaths followed by North America, Asia, South America, Africa, with Oceania being the continent with least numbers of deaths which counts up to 33,153 deaths.
+### Total Deaths per Continent
+A horizontal bar graph representing the **six continents** affected by covid-19, with **Europe** being the continent with highest number of deaths which counts up to **2,100,105 deaths** followed by **North America, Asia, South America, Africa**, with **Oceania** being the continent with least numbers of deaths which counts up to **33,153 deaths**.
 
 ![](https://i.imgur.com/52MFmgX.png)
 
 
-**Visualization 3**: *Infection Rate Per Country* \
-A World Map that displays the covid-19 infection rate across various countries, the map uses a color gradient to represent the infection rate with the legend on the top right corner indicating the range from 0.00 to 77.10 percent.
+### Infection Rate Per Country
+A World Map that displays the **covid-19 infection rate** across various **countries**, the map uses a **color gradient** to represent the infection rate with the legend on the top right corner indicating the range from **0.00 to 77.10 percent**.
 
 Key Observations:
 - High Infection Rates: Western Europe stands out with some of the highest infection rates.
