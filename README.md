@@ -1,6 +1,6 @@
 ![](https://github.com/RM-Sharma999/COVID-19-DATA-EXPLORATION-AND-DASHBOARD/blob/main/Covid-19%20Dashboard%201.png)
 
-# COVID-19 Tableau Visualization 
+# Covid-19 Data Exploration and Dashboard 
 
 This project features an **interactive Tableau dashboard** that examines the **global impact of COVID-19** from **2020 to 2024**, focusing on infection trends, mortality, and vaccination coverage. The dashboard allows users to explore patterns across **countries, continents, and time**, offering clear, data-driven insights into how the pandemic unfolded worldwide.
 
