@@ -6,6 +6,8 @@ This project features an **interactive Tableau dashboard** that examines the **g
 
 ### [Covid-19 Interactive Dashboard](https://public.tableau.com/views/Covid-19Dashboard_17201999956250/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+---
+
 ## Objective
 The dashboard is designed to answer key analytical questions, including:
 - What are the global totals for **COVID-19 cases, deaths, and fatality rate**?
@@ -14,6 +16,8 @@ The dashboard is designed to answer key analytical questions, including:
 - How did **vaccination coverage vary globally**?
 - Which countries remained **below 50% vaccination** by 2024?
 - How did **India’s vaccination campaign** progress over time?
+
+---
 
 ## Data Analysis AND Visualization
 I utilized **data analysis** techniques to explore the **COVID-19 dataset** and used the insights gained to build **interactive visualizations** in **Tableau**. These visualizations highlight key trends in **infections**, **deaths**, and **vaccination progress** across **countries** and over **time**.
@@ -78,10 +82,13 @@ This visualization highlights the **speed and scale of India’s vaccination rol
 
 ![](https://i.imgur.com/4rZRE9D.png)
 
+---
+
 ## Conclusion
 
 The COVID-19 pandemic has had a significant global impact, with infection rates and trends varying widely across countries. This project analyzes and visualizes COVID-19 data to better understand the **spread and severity of the virus** across different regions, as well as the **vaccination efforts** undertaken by each country.
 
+---
 
 ## Data Sources:
 
